@@ -1,3 +1,6 @@
+<h3 >
+<img src=".\asset\Live-Motion-Background\Live-Motion-Background.svg" alt="stacks" width = "100%"/>
+</h3>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Anusha!</h1>
 
  💫 About Me:<br>
