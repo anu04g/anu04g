@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Anusha!</h1>
 
- 💫 About Me:
+ 💫 About Me:<br>
 🔭 I’m currently working on Web Dev and App Dev projects.<br>🌱 I’m learning about Artificial Intelligence.<br>🤝 I’m Interested in exploring FinTech and CyberSecurity.<br>🎓 I’m pursuing B.Tech from IGDTUW.<br>⚡ Fun fact - I am a sports enthusiast.<br>💬 Ask me about my summer at DRDO.
 
 
