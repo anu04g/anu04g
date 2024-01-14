@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anu04g&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pooja-gera" alt="pooja-gera" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=anu04g&no-frame=true
 
 
 ### ✍️ Random Dev Quote
