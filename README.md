@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anusha-gupta-a498b3228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-gupta-a498b3228)
 ![Gmail Badge](https://img.shields.io/badge/-annuuu23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annuuu23@gmail.com)
 
 # 💻 Tech Stack:
